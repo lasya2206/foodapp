@@ -16,7 +16,7 @@
   box-shadow: 5px 10px #979b91;
   }
   .search-button{
-  background: #4da1ab;
+  background: red;
   border: 5px solid white;
   border-radius: 8px;
   padding: 10px 20px;
@@ -25,7 +25,7 @@
   margin: 0 0 0 10px;
   }
   .search-button:hover {
-  background-color:#fa709a ;
+  background-color:green ;
   }
   .recipes{
   display: flex;
